@@ -1,0 +1,18 @@
+export const spacing = {
+  '1': { value: '1px' },
+  xxs: { value: '0.25rem' },
+  xs: { value: '0.5rem' },
+  sm: { value: '0.75rem' },
+  md: { value: '1rem' },
+  lg: { value: '1.5rem' },
+  xl: { value: '2rem' },
+  '2xl': { value: '3rem' },
+  '3xl': { value: '4rem' },
+  '4xl': { value: '5rem' },
+  '5xl': { value: '6rem' },
+  '6xl': { value: '8rem' },
+  '7xl': { value: '10rem' },
+  '8xl': { value: '12rem' },
+  '9xl': { value: '14rem' },
+  '10xl': { value: '16rem' },
+};

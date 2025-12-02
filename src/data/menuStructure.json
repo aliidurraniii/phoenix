@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "menuStructureId": "#Example",
+      "parentId": "",
+      "route": "/example",
+      "componentName": "Example Overview",
+      "componentPath": "",
+      "icon": "",
+      "sortOrder": "1",
+      "isIndex": false
+    },
+    {
+      "menuStructureId": "#ExampleDetail",
+      "parentId": "#Example",
+      "route": ":id",
+      "componentName": "Example Detail",
+      "componentPath": "/example/example-detail/ExampleDetail",
+      "icon": "",
+      "sortOrder": "1.1",
+      "isIndex": true
+    },
+    {
+      "menuStructureId": "#ExampleData",
+      "parentId": "#Example",
+      "route": "data",
+      "componentName": "Example Data",
+      "componentPath": "/example/ExampleData",
+      "icon": "",
+      "sortOrder": "1.2",
+      "isIndex": false
+    },
+    {
+      "menuStructureId": "#Sample",
+      "parentId": "",
+      "route": "/sample",
+      "componentName": "Sample Overview",
+      "componentPath": "/sample/SampleOverview",
+      "icon": "",
+      "sortOrder": "2",
+      "isIndex": false
+    }
+  ]
+}
